@@ -1,2 +1,2 @@
 # HelloWorld
-A repository of code samples.
+A repository of code tidbits.
